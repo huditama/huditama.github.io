@@ -1,0 +1,28 @@
+html, body {
+    font-family: 'Staatliches';
+    text-align: center;
+}
+
+.Header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+.Content {
+    margin-top: 150px
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(161, 12, 12);
+    color: white;
+    text-align: center;
+}
+
